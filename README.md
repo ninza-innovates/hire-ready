@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [bryankhor07/Hire-Ready](https://github.com/bryankhor07/Hire-Ready), maintained by its original author. All credit for the original work goes to them. See the upstream project for license terms.
+
 # 🚀 Hire Ready
 
 Your ultimate interview preparation platform. Practice mock interviews and gain AI-driven insights to land your dream role.
